@@ -1,4 +1,4 @@
-package J09_Ejercicios.cadenas;
+package J09_Ejercicios.P1_Cadenas;
 
 //Una palabra palíndroma es aquella que se lee igual al revés
 public class E03_ReconocerPalindromo {

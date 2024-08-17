@@ -1,4 +1,4 @@
-package J09_Ejercicios.cadenas;
+package J09_Ejercicios.P1_Cadenas;
 
 public class E02_InvertirPalabras {
     public static void main(String[] args) {

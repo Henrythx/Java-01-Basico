@@ -1,4 +1,4 @@
-package J09_Ejercicios.cadenas;
+package J09_Ejercicios.P1_Cadenas;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package J09_Ejercicios.calculo;
+package J09_Ejercicios.P2_Calculo;
 
 public class E01_ConversionesTemperatura {
     public static void main(String[] args) {
