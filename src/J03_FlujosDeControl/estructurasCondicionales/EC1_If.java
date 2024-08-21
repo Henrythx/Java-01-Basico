@@ -16,7 +16,7 @@ public class EC1_If {
         String mensaje = "";
 
         if (dato>12){
-            mensaje = "La nota es aprobatoria";
+            mensaje = "La nota es aceptable";
         } else {
             mensaje = "La nota no es aceptable";
         }
@@ -28,7 +28,7 @@ public class EC1_If {
         int dato = 15;
         String mensaje = "";
 
-        if (dato>12)    mensaje = "La nota es aprobatoria";
+        if (dato>12)    mensaje = "La nota es aceptable";
         else            mensaje = "La nota no es aceptable";
 
         System.out.println(mensaje);
