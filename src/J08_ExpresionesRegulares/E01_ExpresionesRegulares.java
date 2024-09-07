@@ -96,4 +96,12 @@ public class E01_ExpresionesRegulares {
         System.out.println("Coincidencias : "+x);
     }
 
+
+
+    public static void ejemplo6(){
+        String EMAIL_REGEX = "\\w[a-zA-Z0-9]+@[a-zA-Z0-9]+(\\.[a-z]{2,6}){1,4}";
+        String texto = "";
+        boolean valido = texto.matches(EMAIL_REGEX);
+    }
+
 }
